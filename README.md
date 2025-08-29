@@ -42,6 +42,7 @@ Place the MIMIC-III CSVs you plan to use here. The pipeline expects:
 - `PRESCRIPTIONS.csv`
 - `LABEVENTS.csv`
 - `NOTEEVENTS.csv`
+- `D_LABITEMS.csv`
 
 ---
 
