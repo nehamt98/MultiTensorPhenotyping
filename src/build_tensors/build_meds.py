@@ -15,4 +15,5 @@ meds_merged = pd.merge(meds, diag, on = ["SUBJECT_ID", "HADM_ID"])
 meds_tensor = meds_merged.groupby(["SUBJECT_ID", "ICD9_CODE", "DRUG"]).size().reset_index(name="count")
 
 # Export the tensor
+os.makedirs(os.path.join(base_path,"data/tensors"), exist_ok=True)
 meds_tensor.to_csv(os.path.join(base_path,"data/tensors/meds_tensor.csv"))

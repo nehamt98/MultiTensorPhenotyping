@@ -27,4 +27,6 @@ labs_joined = pd.merge(labs, diag, on=["SUBJECT_ID", "HADM_ID"])
 labs_tensor = labs_joined.groupby(["SUBJECT_ID", "ICD9_CODE", "LAB_CONCEPT"]).size().reset_index(name="count")
 
 # Export the tensor
+os.makedirs(os.path.join(base_path,"data/tensors"), exist_ok=True)
 labs_tensor.to_csv(os.path.join(base_path,"data/tensors/labs_tensor.csv"))
+
