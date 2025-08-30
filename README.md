@@ -32,7 +32,6 @@ Hardware notes:
 - Notes extraction and the multi view Granite run are the heaviest steps.
 - A GPU helps. If you are on CPU, lower the topic/rank in the scripts or subset rows.
 
----
 
 ## Data expected in `data/raw/`
 
@@ -44,7 +43,6 @@ Place the MIMIC-III CSVs you plan to use here. The pipeline expects:
 - `NOTEEVENTS.csv`
 - `D_LABITEMS.csv`
 
----
 
 ## Quick start
 
@@ -102,4 +100,5 @@ python src/models/granite_multiple.py    # -> data/granite3_out/
 
 Each folder will include factor matrices (patients, diagnoses, and view-specific concepts), lambda weights per topic/component, top tokens, and simple fit summaries.
 
----
+## Results
+The phenotypes/ folder contains concise phenotype summaries for each of the three models evaluated in this project. Each phenotype is shown as a single line, listing the top-ranked medications, lab tests, and note concepts. These were generated directly from the factor matrices after final training and sparsity projection, and are intended to support interpretability analysis.
