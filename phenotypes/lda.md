@@ -4,30 +4,35 @@
 **Labs**: NRBC:normal, Sedimentation Rate:abnormal, EDTA Hold:normal, D-Dimer:abnormal, Anti-Nuclear Antibody:normal  
 **Notes**: preoxygenation:true, normothermia:false, margin_of
 _the:true, arixtra:true, lactate_level:true  
+**ICD9 Diagnoses**: E9344, 2530, 4270, 0545, 53501  
 
 ## Phenotype 2
 
 **Meds**: Sodium Chloride, Potassium Chloride, D12.5W, D20W, NEO*PO*Opium Tincture (Dilute)  
 **Labs**: Cortisol:normal, Ammonia:abnormal, Amphetamine Screen, Urine:normal, Methadone, Urine:normal, Barbiturate Screen, Urine:normal  
 **Notes**: done->karyotype:true, amniocentisis:true, p140s:true, fed.ivf:true, symmetrical_movement:false  
+**ICD9 Diagnoses**: V052, 76496, 52410, 75981, 2511  
 
 ## Phenotype 3
 
 **Meds**: Agrylin, NEO*IV*Epoetin Alfa, Clonidine TTS 3 Patch, Lidocaine 1% (Buffered), NEO*PO*Ergocalciferol  
 **Labs**: Specific Gravity:abnormal, Parathyroid Hormone:normal, Blasts:abnormal, tacroFK:normal, tacroFK:abnormal  
 **Notes**: sleves:true, disention:false, retic=5.1:true, bm28+pro:true, int_sc:false  
+**ICD9 Diagnoses**: 75432, 7441, 85146, 85406, 82100  
 
 ## Phenotype 4
 
 **Meds**: Acetaminophen (Liquid), Heparin, NEO*IV*Hydrocortisone Sod Succinate, Potassium Chloride, Syringe (Neonatal)  
 **Labs**: Bilirubin, Direct:abnormal, Promyelocytes:abnormal, Hematocrit:delta, Platelet Count:abnormal, Red Blood Cells:delta  
 **Notes**: protuberant:false, assessmeninfant:true, qsr.pca:true, stim_requiredt:true, triplet_c:true  
+**ICD9 Diagnoses**: 75500, 7581, 75559, 75989, 74920  
 
 ## Phenotype 5
 
 **Meds**: Ampicillin Sodium, Propranolol Oral Solution, NEO*SC*Phytonadione, Erythromycin 0.5% Ophth Oint, NEO*IM*Hepatitis B Vaccine  
 **Labs**: Bilirubin, Indirect:normal, Potassium:abnormal, Albumin, Pleural:normal, Reticulocyte Count, Manual:abnormal, Folate:normal  
 **Notes**: 22.voiding:false, wt=1180:false, twin_a:true, orchiopexy:true, between.temp:true  
+**ICD9 Diagnoses**: V061, V0382, V0381, 7612, 75261  
 
 ## Phenotype 6
 
@@ -35,18 +40,21 @@ _the:true, arixtra:true, lactate_level:true
 **Labs**: Potassium:abnormal, Globulin:abnormal, Light Green Top Hold:normal, Specific Gravity:abnormal, CK-MB Index:abnormal  
 **Notes**: axial
 _t2-weighted_images:true, insp/palp/rom:false, puffyness:true, ps.pt:true, s-_trached:true  
+**ICD9 Diagnoses**: 83905, 83906, E8888, 34440, 7802  
 
 ## Phenotype 7
 
 **Meds**: D5W, NS, Calcium Gluconate, Sodium Bicarbonate, Sterile Water  
 **Labs**: Thyroid Stimulating Hormone:abnormal, Thyroxine (T4), Free:abnormal, Thyroxine (T4):normal, Triiodothyronine (T3):normal, Cortisol:normal  
 **Notes**: deparalyzed:true, r_brachial_artery:true, nutrihep:true, chylous_ascites:true, hrs--:false  
+**ICD9 Diagnoses**: 05379, 0521, 20300, 64781, 65641  
 
 ## Phenotype 8
 
 **Meds**: Metoprolol, Hydralazine HCl, NS (Glass Bottle), Labetalol HCl, Phenytoin Sodium  
 **Labs**: Calculated Bicarbonate, Whole Blood:normal, Gentamicin:normal, Salicylate:normal, Ethanol:normal, RBC, CSF:normal  
 **Notes**: impair_gag:true, under_left:true, l_ulna:true, ivf(ffp:true, density_hematoma:true  
+**ICD9 Diagnoses**: 8708, 90253, 82121, 8678, 9950  
 
 ## Phenotype 9
 
@@ -54,42 +62,49 @@ _t2-weighted_images:true, insp/palp/rom:false, puffyness:true, ps.pt:true, s-_tr
 **Labs**: tacroFK:normal, tacroFK:abnormal, RBC, Ascites:abnormal, Polys:abnormal, Other Cells:abnormal  
 **Notes**: upper_right
 ___lobe:true, cpac:true, redraw_cultures:true, creatine_up:true, lactateurine:true  
+**ICD9 Diagnoses**: 25051, 99667, V420, E8122, 9587  
 
 ## Phenotype 10
 
 **Meds**: NS, Pneumococcal 7-Valent, Glucagon, Neo*IV*MetronidAZOLE, Haemophilus B Conj. Vaccine  
 **Labs**: Triglycerides:abnormal, Envelope Cells:normal, MCHC:delta, Acanthocytes:normal, tacroFK:normal  
 **Notes**: enf26:true, enfamil26:true, bw=2210:true, ffa:true, ac_d/:true  
+**ICD9 Diagnoses**: 0419, 7529, 7608, 7622, 86504  
 
 ## Phenotype 11
 
 **Meds**: 0.9% Sodium Chloride, Potassium Chloride, 5% Dextrose, Vancomycin, SW  
 **Labs**: Hyaline Casts:abnormal, Light Green Top Hold:normal, NTproBNP:abnormal, Macrophage:abnormal, WBC, Ascites:abnormal  
 **Notes**: extremety_strength:false, /cables:false, sodium_phosphate__iv:true, incraesingly:true, irregular_waveforms:false  
+**ICD9 Diagnoses**: 03812, 78060, 45340, E9288, 7291  
 
 ## Phenotype 12
 
 **Meds**: D5W, NS, Potassium Chloride, Furosemide, Insulin  
 **Labs**: Haptoglobin:abnormal, Transferrin:abnormal, Potassium, Urine:normal, Iron Binding Capacity, Total:abnormal, Uric Acid:normal  
 **Notes**: dbp<95:true, skin_separation:true, disease\peripheral_angiogram:true, left_vastus_lateralis:true, hypotension_-sepsis:true  
+**ICD9 Diagnoses**: 35981, 1173, 0542, 0785, 20400  
 
 ## Phenotype 13
 
 **Meds**: Syringe (Neonatal) *D10W*, Fentanyl Citrate, Nystatin Oral Suspension, NS, NEO*PO*Fluconazole  
 **Labs**: Triglycerides:abnormal, Promyelocytes:abnormal, MCHC:delta, Acanthocytes:normal, Envelope Cells:normal  
 **Notes**: 2uvc:true, infant's_spells:true, current_settings:false, stiffening_movements:true, arches_back:false  
+**ICD9 Diagnoses**: 7676, 7670, 77581, 7962, 7631  
 
 ## Phenotype 14
 
 **Meds**: Desitin, Travatan, NEO*Aquaphor, Naloxone HCl, Bacitracin Ophthalmic oint  
 **Labs**: Troponin I:abnormal, Ammonia:abnormal, Myoglobin, Urine:normal, Ethanol:normal, Salicylate:normal  
 **Notes**: canpn:true, cw=2055:true, fussing:false, 5.contracture:true, thin_slice_reformatted_images:true  
+**ICD9 Diagnoses**: E8191, 22801, 75739, 75489, 74362  
 
 ## Phenotype 15
 
 **Meds**: LR, Acetazolamide Sodium, Ampicillin Desensitization, Penicillin G K Desensitization, Albuterol  
 **Labs**: Troponin I:normal, Iron:abnormal, Transferrin:abnormal, Uric Acid:normal, Cortisol:normal  
 **Notes**: ,_maxillary:true, rouex:true, pancreaticojej:true, hums:true, air_cavities:true  
+**ICD9 Diagnoses**: 6084, 60883, 80106, 80006, 2900  
 
 ## Phenotype 16
 
@@ -97,48 +112,56 @@ ___lobe:true, cpac:true, redraw_cultures:true, creatine_up:true, lactateurine:tr
 **Labs**: Calcium, Urine:normal, Base Excess:normal, Hemoglobin:delta, Protein, Total:abnormal, Urine Volume:normal  
 **Notes**: diaphragmatic
 ___weakness:true, postural_instability:true, binswangertype:true, mysathenia:false, limb_symptoms:true  
+**ICD9 Diagnoses**: 5081, 9348, 2384, 86329, 81000  
 
 ## Phenotype 17
 
 **Meds**: Tobramycin Sulfate, NS (Irrigation Bottle), Iron Polysaccharides Complex, Critic-Aid Skin Paste, Epinephrine HCl  
 **Labs**: Tobramycin:abnormal, MCH:abnormal, Bilirubin, Direct:abnormal, Blasts:abnormal, Spherocytes:normal  
 **Notes**: pcv/50%/34/14:false, jugular_doppler:false, psv/50:false, peep10/30:true, deat:true  
+**ICD9 Diagnoses**: 7767, 1987, V4282, 76402, 76512  
 
 ## Phenotype 18
 
 **Meds**: NEO*IM*Haemophilus B Conjugate, Propranolol Oral Solution, NEO*PO*Acetaminophen Drops, Travatan, NEO*IV*Hydrocortisone Sod Succinate  
 **Labs**: Platelet Count:abnormal, Bilirubin, Direct:abnormal, Thyroid Stimulating Hormone:abnormal, Other:normal, Platelet Clumps:normal  
 **Notes**: coxygeal:false, abnormal_neuro_symptoms:true, wt=3640gms:true, suck/seal:true, 40%.infant:true  
+**ICD9 Diagnoses**: 75569, 28733, 75470, 75550, 52406  
 
 ## Phenotype 19
 
 **Meds**: Lithium Carbonate, NEO*PO*Morphine, NEO*PO*Spironolactone, Nystatin Powder, Lidocaine 0.5%/Epinephrine  
 **Labs**: Chloride:normal, Hemoglobin:delta, Pappenheimer Bodies:normal, MCV:delta, Human Chorionic Gonadotropin:normal  
 **Notes**: cv=2nd:true, open_palate:false, bwel_sounds:false, scaffoid:true, lanugo:false  
+**ICD9 Diagnoses**: 7503, 0088, 78341, 99653, 87374  
 
 ## Phenotype 20
 
 **Meds**: Syringe (Neonatal), Heparin (Preservative Free), Syringe (Neonatal) *D5W*, D10W, Sodium Chloride  
 **Labs**: Reticulocyte Count, Manual:abnormal, Gentamicin:normal, Nucleated Red Cells:normal, Acanthocytes:normal, Total Protein, CSF:abnormal  
 **Notes**: vlcfa:true, gt_site:false, caffeine.brady:true, clinical_decompensation:true, 21%.cbg:true  
+**ICD9 Diagnoses**: 22809, 55012, 6820, V707, 76501  
 
 ## Phenotype 21
 
 **Meds**: D5W, Amiodarone HCl, Furosemide, Cyclosporine Modified (Neoral), D5W (EXCEL BAG)  
 **Labs**: SPECIMEN TYPE:normal, CD4 Cells, Percent:normal, Absolute Lymphocyte Count:normal, Absolute CD4 Count:abnormal, CD8 Cells, Percent:normal  
 **Notes**: decompensationtachypneic:true, tachypneic-->placed:true, uop=:true, 4/>2-:false, aroused.pt:true  
+**ICD9 Diagnoses**: 76077, V6149, E8150, 86100, 75312  
 
 ## Phenotype 22
 
 **Meds**: Ferrous Sulfate, Sodium Chloride 0.9%  Flush, LR, Hydrocortisone, Esmolol  
 **Labs**: Calculated Bicarbonate, Whole Blood:normal, Hyaline Casts:abnormal, Iron:abnormal, Absolute A1c:normal, Absolute Hemoglobin:normal  
 **Notes**: erythroleukemia:false, out_of_airways:true, eval_t:true, and_seventh_ribs:true, parasagittal_in:true  
+**ICD9 Diagnoses**: 81342, 1622, 7906, 53541, 92619  
 
 ## Phenotype 23
 
 **Meds**: Calcium Gluconate, Furosemide, Potassium Chloride, DopAmine, Carbidopa-Levodopa (25-100)  
 **Labs**: Anion Gap:normal, Ammonia:abnormal, Total Protein, Pleural:normal, Protein, Total:abnormal, RBC, Pleural:abnormal  
 **Notes**: prn_po:true, sifnificant_difficulty:false, work-of-breathing:true, ip_evaluation:true, rhonhious:true  
+**ICD9 Diagnoses**: 27911, 75610, 3071, 78003, 3941  
 
 ## Phenotype 24
 
@@ -147,40 +170,47 @@ ___weakness:true, postural_instability:true, binswangertype:true, mysathenia:fal
 **Notes**: find_a_comfortable
 ___position:true, uncontrolled_movement:true, left_side
 ___pupils:false, anisocoriac:true, serum_osmolarity:false  
+**ICD9 Diagnoses**: 7028, 80141, 80441, 56039, 53641  
 
 ## Phenotype 25
 
 **Meds**: Phenobarbital, Potassium Chloride, D10W, Sodium Chloride, NEO*IV*Phenobarbital  
 **Labs**: Phenobarbital:normal, Phenobarbital:abnormal, Total Protein, CSF:abnormal, EDTA Hold:normal, Uhold:normal  
 **Notes**: mandarin:false, 1neuro:true, weak_palmar:false, o;temp:true, pheno_level:true  
+**ICD9 Diagnoses**: 77214, 76621, 7625, 75026, 7500  
 
 ## Phenotype 26
 
 **Meds**: Clozapine, NEO*PO*Spironolactone, Dakins 1/4 Strength, Propranolol HCl, NEO*PO*Acetazolamide (10mg/1ml)  
 **Labs**: Ammonia:abnormal, Blasts:normal, Blasts:abnormal, Reticulocyte Count, Automated:normal, Hematocrit:delta  
 **Notes**: left_middle_fingernail:true, dve:true, scores:true, 100%.rem:true, fonatnel:true  
+**ICD9 Diagnoses**: 7520, 74330, 74320, 7730, 73316  
 
 ## Phenotype 27
 
 **Meds**: NEO*PO*Ferrous Sulfate Elixir, D10W, AMOXicillin Oral Susp., Acetaminophen (Liquid), Multivitamin Liquid  
 **Labs**: Bilirubin, Direct:normal, Reticulocyte Count, Automated:normal, Acanthocytes:normal, MCV:delta, Hematocrit:delta  
 **Notes**: posterior_forchette:false, cga=40:true, soft_murmer:true, e_28:true, wkpma:true  
+**ICD9 Diagnoses**: 7061, 76497, 7961, 7571, 99631  
 
 ## Phenotype 28
 
 **Meds**: Miconazole Nitrate Vaginal, Cefotetan, Acetazolamide Sodium, Meningococcal Vaccine, Haemophilus B Conj. Vaccine  
 **Labs**: Calculated Bicarbonate, Whole Blood:normal, Thyroid Stimulating Hormone:abnormal, Pappenheimer Bodies:normal, MCH:abnormal, Hepatitis B Core Antibody, IgM:normal  
 **Notes**: respiratoy_acidoses:true, leak,#1>#2.oozing:false, pain.le_sensation:false, cts-->neg:true, 3cm>>b:true  
+**ICD9 Diagnoses**: 2752, 76719, 9579, 8620, 8750  
 
 ## Phenotype 29
 
 **Meds**: NEO*PO*Acetaminophen Drops, NEO*IM*Haemophilus B Conjugate, NEO*PO*Ferrous Sulfate Elixer, Agrylin, Oxandrolone  
 **Labs**: Fluid Type:normal, Reticulocyte Count, Manual:normal, Myoglobin, Urine:normal, Nucleated Red Cells:normal, Protein, Total:normal  
 **Notes**: ag=34:true, inforweight:true, apepairng:true, bottom_of_the_skull:true, npo.tf=:true  
+**ICD9 Diagnoses**: 76529, 7560, V180, 75481, 74561  
 
 ## Phenotype 30
 
 **Meds**: CycloSPORINE Modified (Neoral), Syringe (Neonatal)  *D12.5W*, NEO*IV*Piperacillin-Tazobactam, Morphine Sulfate, Acetic Acid 0.25% Irrig. Soln  
 **Labs**: Blasts:normal, Base Excess:normal, Anion Gap:normal, Hematocrit:delta, Bilirubin, Indirect:normal  
 **Notes**: hct=53.8:true, abdoman_ct:true, bw=1000:true, pn_14:true, dol_27:true  
+**ICD9 Diagnoses**: 3590, 75889, 74362, 76498, 7515  
 
